@@ -14,12 +14,12 @@ Free and open source discord client script in javascript
 
 # Task list
 
-- [ ] Client
+- [X] Client
 - [X] profile
-- [ ] give crow to you
-- [ ] nuke account
-- [ ] token generator
-- [ ] leave all guild
+- [X] crown checker
+- [X] nuke account
+- [X] token generator
+- [X] leave all guild
 
 - [ ] Dm pub
 
