@@ -1,6 +1,6 @@
 # Discord-Client-tool
 
-Free and open source discord client script in javascript
+Free discord client script in javascript
 
 
 # Download
